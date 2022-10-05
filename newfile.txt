@@ -1,34 +1,3 @@
-Редактирование проф пользователя
-
-M1RCLE Changes:
-
-Динамические структуры данных
-
-STACK
-LINE
-
->> stack: First in last out
-
->> stack: new data to the begin
-
->> stack: limited					        --
-
->> stack: when elements ended u can't take any elements more	   \\
-
->> stack: is continuous memory line (непрерывный участок памяти)  //
-	
->> ! stack: can be underflowed and overflowed                  <--
-
-
-
->> line: First in first out
-
->> line: limited
-
->> line: new data to the end
-
->> line: two pointers (HEAD, TAIL)
-
->> line: new data to the TAIL+1, TAIN += 1
-
->> line: delite data from HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bc5dafd4970d569d0ea1cf7c1bb3dc6ac2cb152a8d490868126e05e6651bc1d
+size 667
